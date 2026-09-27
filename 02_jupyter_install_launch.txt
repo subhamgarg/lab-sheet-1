@@ -1,0 +1,6 @@
+PROGRAM 2: Install Jupyter Notebook and launch it
+
+Run these commands in Command Prompt / Terminal:
+
+pip install notebook
+jupyter notebook

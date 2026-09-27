@@ -1,0 +1,15 @@
+PROGRAM 10: Create a virtual environment
+
+Windows:
+python -m venv myenv
+myenv\Scripts\activate
+
+Linux/macOS:
+python3 -m venv myenv
+source myenv/bin/activate
+
+Install required libraries:
+pip install numpy pandas matplotlib seaborn scikit-learn
+
+Verify:
+pip list
